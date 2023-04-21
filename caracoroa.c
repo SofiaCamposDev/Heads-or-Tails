@@ -18,7 +18,7 @@ int main()
 
 void regista_escolha ()
 {
-	printf("Bem-vindo ao jogo de cara ou coroa!\n");
+	printf("Bem-vindo ao jogo de cara ou coroa!!!\n");
 		while(op_valida_Flag == false)
 			{
 			printf("Escolha uma opÃ§Ã£o:\n");
